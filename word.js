@@ -60,7 +60,7 @@ Word.prototype.checkGuess = function( guessLetter ){
 
 	}
 
-	//returns boolean whether letter was in word
+	//returns boolean whether letter was in s
 	return correctGuess;
 }
 
